@@ -10,3 +10,5 @@ __pycache__/
 
 # macOS-specific system files
 .DS_Store
+
+.gitigore 
