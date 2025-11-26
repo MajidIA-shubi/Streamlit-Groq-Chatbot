@@ -1,0 +1,1 @@
+GROQ_API_key= pass your api here 

@@ -1,0 +1,12 @@
+# Python virtual environment folder
+.venv/
+venv/
+
+# Environment variable file containing secrets (API keys)
+.env
+
+# Compiled Python files
+__pycache__/
+
+# macOS-specific system files
+.DS_Store
